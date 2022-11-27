@@ -1,0 +1,23 @@
+{
+  "name": "moviereview",
+  "version": "1.0.0",
+  "description": "Step 1: Import 'movie_review.sql' script from extraresources folder into your mySQL Database and run it.\r Step 2: Go to terminal and run the following commands:\r     npm install\r Step 3: Every dependencies should be installed\r Step 4: run 'node db-connection.js' this should have no errors and be 'DBConnected' in terminal. If not check your credentials if they are correct.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Chromacry/MovieReviewProject.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Chromacry/MovieReviewProject/issues"
+  },
+  "homepage": "https://github.com/Chromacry/MovieReviewProject#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mysql": "^2.18.1"
+  }
+}
