@@ -9,6 +9,10 @@ If not check your credentials if they are correct.
 Step 5: run 'npm start' or 'node server.js' in terminal. 
 This would startup the backend server which you can add your frontend HTML page in public folder.
 
+### Lesson 2
+Added comments get data from database.
+
+
 #### Remarks:
 Everything should be working of the following:
 - able to connect and query in mySQL database
